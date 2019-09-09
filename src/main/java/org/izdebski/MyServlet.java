@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet("/MyServlet")
+//@WebServlet(urlPatterns = "/MyServlet", description="Мое описание сервлета", displayName="displayName")
 public class MyServlet  extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
