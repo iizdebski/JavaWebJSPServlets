@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef2ad43e-3a5f-4780-afa9-ef67eeb41fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/izdebski/ParametersServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Parameters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/izdebski/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +198,7 @@
       <workItem from="1568048491904" duration="5322000" />
       <workItem from="1568107174655" duration="12506000" />
       <workItem from="1568188331065" duration="769000" />
-      <workItem from="1568272206089" duration="4358000" />
+      <workItem from="1568272206089" duration="7868000" />
     </task>
     <servers />
   </component>
