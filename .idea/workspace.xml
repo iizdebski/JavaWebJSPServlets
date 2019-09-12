@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef2ad43e-3a5f-4780-afa9-ef67eeb41fde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/izdebski/ParametersServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Parameters.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/izdebski/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/izdebski/MyServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/NewFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/NewFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaWeb/NewFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaWeb/NewFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaWeb/WEB-INF/classes/org/izdebski/MyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaWeb/WEB-INF/classes/org/izdebski/MyServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/izdebski/MyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/izdebski/MyServlet.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +48,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaVision/Part 9/servlet-tutorial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming preparation\Online Internship\Servlet Tutorial\VladimirVysokomornyi\JavaWeb\src\main\webapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,7 +197,7 @@
       <workItem from="1568048491904" duration="5322000" />
       <workItem from="1568107174655" duration="12506000" />
       <workItem from="1568188331065" duration="769000" />
-      <workItem from="1568272206089" duration="795000" />
+      <workItem from="1568272206089" duration="4358000" />
     </task>
     <servers />
   </component>
